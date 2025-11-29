@@ -1,14 +1,13 @@
+
+
+
 Daily Calorie Tracker
---------------------------
-Date & Time :2025-11-16 16:26:19
-Meal Name	Calories Amount
-breakfast	300.0
-lunch	400.0
-snack	500.0
-dinner	600.0
-""
-Total Calories:		1800.0
-Average per Meal:	{avg_Calorie_Amount}
-Calorie Limit:		{limit}
-Status:		{status}
---------------------------
+Date & Time :2025-11-29 15:12:30
+"Meal Name	Calories Amount"
+"Breakfast	400.0"
+"Lunch	500.0"
+"Dinner	600.0"
+"Total Calories:		1500.0"
+"Average per Meal:	500.0"
+"Calorie Limit:		1200.0"
+"Status:		You have exceeded your daily calorie limit."
